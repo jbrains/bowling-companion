@@ -59,8 +59,6 @@ public final class Constants {
     public static final String KEY_AVERAGE_AS_DECIMAL = "pref_average_as_decimal";
     /** Identifier for preference to show current app version. */
     public static final String KEY_VERSION_NAME = "pref_version_name";
-    /** Identifier for preference to use uppercase mark identifiers in games instead of upper/lowercase. */
-    public static final String KEY_PREFER_UPPERCASE_MARKS = "pref_prefer_uppercase";
     /** Identifier for preference to count Headpin + 2 as a Headpin in statistics. */
     public static final String KEY_COUNT_H2_AS_H = "pref_count_h2_as_h";
     /** Identifier for preference to count Split + 2 as a Split in statistics. */
@@ -172,9 +170,9 @@ public final class Constants {
     /** Symbol representing a 'chop off'. */
     public static final String BALL_CHOP_OFF = "C/O";
     /** Symbol representing a 'split'. */
-    public static final String BALL_SPLIT = "Sp";
+    public static final String BALL_SPLIT = "HS";
     /** Symbol representing a 'head pin'. */
-    public static final String BALL_HEAD_PIN = "Hp";
+    public static final String BALL_HEAD_PIN = "HP";
     /** Symbol representing a 'head pin + 2 pin'. */
     public static final String BALL_HEAD_PIN_2 = "H2";
     /** Symbol representing an empty frame. */
